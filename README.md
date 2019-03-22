@@ -1,1 +1,1 @@
-# 💬📲A simplified library for using Multitexter APIs
+# 💬📲A simplified ReactJs library for using Multitexter APIs
